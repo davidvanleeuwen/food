@@ -24,7 +24,7 @@ First off, the ingredients:
 #### Kombu Dashi
 Dashi is a basic broth, but in my experience has a lot to offer. There are tons of resources that explain a lot about dashi, because it's also used for another traditional Japanese dish: misosoup. Therefor there are lots of different ways to prepare it. As far as I know, it's always made using dried ingredients. At is core, kombu is used. This is a type of seaweed (and these are different per region), which are mostly sold as thick dried pieces. But you can experiment by adding other flavors to give it a more umami punch, for instance: Niboshi (dried sardines) and/or dried shiitake.
 
-I've started out simple and prepared a Kombu dashi using the cold water technique. This basically means cleaning the kombu and putting it in cold water and letting it soak overnight (8 - 10 hours). If you're interested in trying out different methods, check out [super interesting article](http://www.cookingissues.com/index.html%3Fp=3040.html).
+I've started out simple and prepared a Kombu dashi using the cold water technique. This basically means cleaning the kombu and putting it in cold water and letting it soak overnight (8 - 10 hours). If you're interested in trying out different methods, check out this [super interesting article](http://www.cookingissues.com/index.html%3Fp=3040.html).
 
 ![ingredients](https://user-images.githubusercontent.com/238946/28499910-6ccdc730-6fc0-11e7-8449-041529a15278.png)
 
