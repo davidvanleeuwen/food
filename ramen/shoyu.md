@@ -53,3 +53,7 @@ _WIP_
 
 **Toppings**
 _WIP_
+
+### Links
+* http://www.ramenchemistry.com/
+* http://www.bonappetit.com/test-kitchen/how-to/slideshow/how-to-make-trendy-authentic-shoyu-ramen-at-home
