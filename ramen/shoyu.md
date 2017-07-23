@@ -37,7 +37,7 @@ Traditionally, Katsuobushi is [skipjack tuna](https://en.wikipedia.org/wiki/Skip
 #### Meat
 I've tried several different parts of the pork, but in my experience, pork belly is the best. The more fatty it is, the better. Eventuelly you cut it up into thing slices, so that is super nice, as the fat also holds together the meat better when cooking with the soup. Otherwise I would recommend the shoulder, which has also a pretty decent amount of fat in it. Sometimes you can get it as a roll, otherwise you'll have to do it yourself.
 
-You can also throw in some chicken carcasses, legs or whatever. I throwed in everything to really get a meaty flavor in it.
+You can also throw in some chicken carcasses, legs or whatever. I threw in everything to really get a meaty flavor (and reused the chicken flesh in another dish).
 
 ![meat](https://user-images.githubusercontent.com/238946/28500326-b0cfb960-6fc6-11e7-8758-015408b74d10.jpg)
 
