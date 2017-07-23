@@ -29,7 +29,7 @@ I've started out simple and prepared a Kombu dashi using the cold water techniqu
 ![ingredients](https://user-images.githubusercontent.com/238946/28499910-6ccdc730-6fc0-11e7-8449-041529a15278.png)
 
 #### Katsuobushi
-Traditionally, Katsuobushi is [skipjack tuna](https://en.wikipedia.org/wiki/Skipjack_tuna) that has been smoked and sometimes fermented for a very long time. This is a pretty expensive process and sometimes hard to get. Most of the time you can easily get your hands on [Bonito](https://en.wikipedia.org/wiki/Bonito) flakes, which also give a very fishy taste which is needed to add to your dashi once you start to boil it with other ingredients. However, ingredientsthe story behind Katsuobushi is pretty interesting:
+Traditionally, Katsuobushi is [skipjack tuna](https://en.wikipedia.org/wiki/Skipjack_tuna) that has been smoked and sometimes fermented for a very long time. This is a pretty expensive process and sometimes hard to get. Most of the time you can easily get your hands on [Bonito](https://en.wikipedia.org/wiki/Bonito) flakes, which also give a very fishy taste which is needed to add to your dashi once you start to boil it with other ingredients. However, the story behind Katsuobushi is pretty interesting:
 
 [<img width="558" alt="video copy" src="https://user-images.githubusercontent.com/238946/28500227-a8f37ed6-6fc4-11e7-8d7e-e6e2a1fa74da.png">
 ](https://www.youtube.com/watch?v=O-AsUnbin6E)
