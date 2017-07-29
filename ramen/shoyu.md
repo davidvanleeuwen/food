@@ -48,8 +48,10 @@ From what I've seen, scallions and carrots are mostly being used. But you can th
 **Noodles**
 _WIP_
 
-**Flavoring**
-_WIP_
+### Flavoring
+As mentioned, there are many types of flavoring. This is the exciting part, because this really influence the end result of your ramen. Shoyu, which is a tare based on soy sauce, is in my opinion a simple but very taste flavor.
+
+I've used [this recipe](http://www.bonappetit.com/recipe/tare-soy-basting-sauce), but I really needed to add a lot to a bowl to really make the flavor stand out in the ramen.
 
 **Toppings**
 _WIP_
