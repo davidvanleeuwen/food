@@ -53,6 +53,8 @@ As mentioned, there are many types of flavoring. This is the exciting part, beca
 
 I've used [this recipe](http://www.bonappetit.com/recipe/tare-soy-basting-sauce), but I really needed to add a lot to a bowl to really make the flavor stand out in the ramen.
 
+A good tip is to warm up the tare before serving it, that way you make sure when serving the ramen everything is extremely hot (the way it should be).
+
 **Toppings**
 _WIP_
 
