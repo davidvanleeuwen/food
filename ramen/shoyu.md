@@ -20,6 +20,7 @@ Ok, so, you probably expect some kind of tutorial here. Although I hope you get 
 First off, the ingredients:
 
 ### Broth
+Check out [this recipe](http://www.bonappetit.com/recipe/shoyu-ramen), which really helped me out at first. I've provided some extra information based on this recipe below.
 
 #### Kombu Dashi
 Dashi is a basic broth, but in my experience has a lot to offer. There are tons of resources that explain a lot about dashi, because it's also used for another traditional Japanese dish: misosoup. Therefor there are lots of different ways to prepare it. As far as I know, it's always made using dried ingredients. At is core, kombu is used. This is a type of seaweed (and these are different per region), which are mostly sold as thick dried pieces. But you can experiment by adding other flavors to give it a more umami punch, for instance: Niboshi (dried sardines) and/or dried shiitake.
