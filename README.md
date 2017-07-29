@@ -8,10 +8,11 @@ Are you as obsessed over food as I am? Eating it, the history behind it, prepari
   <tbody>
     <tr>
       <td align="center">
+      <a href="https://github.com/davidvanleeuwen/food/blob/master/ramen/shoyu.md">
         <img width="250"
         src="https://user-images.githubusercontent.com/238946/28500307-4d960278-6fc6-11e7-89f4-d821ff82aaf5.jpg">
         <br>
-        <a href="https://github.com/davidvanleeuwen/food/blob/master/ramen/shoyu.md">Shoyu Ramen</a>
+        Shoyu Ramen</a>
         <br>
         Japanese dish
       </td>
