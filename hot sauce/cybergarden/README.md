@@ -43,6 +43,7 @@ This is the most exciting part to be honest. Putting everything into something v
 [Click here to view the actual live data](https://garden.davidvanleeuwen.nl/public/dashboards/qFxzixm2UwpHUIRO7e8jz2u61N3v8Yb8afp8zDYa). Click the things in the legenda to view more specific things.
 
 I'm also getting an alert on Slack whenever the humidity of the soil is getting below 50% (relative humidity a.k.a RH %). I'm not sure at what percentage it'll need water, but it's definitely something I need to figure out. This is what the notification looks like:
+
 <img width="667" alt="image" src="https://user-images.githubusercontent.com/238946/40449969-7fdefbfa-5eda-11e8-84d9-4b616a9afcf7.png">
 
 I installed Redash and all its dependencies through a pre-installed [linux distribution from Bitname](https://docs.bitnami.com/aws/apps/redash/) and put it on an AWS EC2 instance, but you can put it on any server you'd like.
