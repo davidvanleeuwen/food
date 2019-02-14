@@ -27,7 +27,7 @@ Are you as obsessed over food as I am? Eating it, the history behind it, prepari
         <br>
         Growing peppers
       </td>
-       <td align="center">
+      <td align="center">
       <a href="https://github.com/davidvanleeuwen/food/tree/master/hacker%20surprise/readme.md">
         <img width="250"
         src="https://user-images.githubusercontent.com/238946/52793082-2d3c3600-306d-11e9-94e3-cb0d68f2b450.png">
@@ -35,6 +35,15 @@ Are you as obsessed over food as I am? Eating it, the history behind it, prepari
         Hacker Surprise</a>
         <br>
         Chocolat
+      </td>
+      <td align="center">
+      <a href="https://github.com/davidvanleeuwen/food/blob/master/hot%20sauce/readme.md">
+        <img width="250"
+        src="https://user-images.githubusercontent.com/238946/52793512-2feb5b00-306e-11e9-9d2e-1afe77c692c9.png">
+        <br>
+        Simon's hot sauce</a>
+        <br>
+        Fresno pepper hot sauce
       </td>
     </tr>
   <tbody>
