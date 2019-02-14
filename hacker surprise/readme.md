@@ -1,6 +1,6 @@
 It's time to have some fun with chocolate 🍫🍫🍫!
 
-I'm part of a community, which is a hackerspace in Rotterdam called Pixelbar. And we had this brilliant idea to create a better version of Kinder Surprise. Instead of getting surprised with a disappointment (a simple piece of plastic, which is can sometimes be fun for kids), we instead wanted to add a small solder project in there - for hackers.
+I'm part of a community, which is a hackerspace in Rotterdam called Pixelbar. And we had this brilliant idea to create a better version of Kinder Surprise. Instead of getting surprised with a disappointment (a simple piece of plastic, which can sometimes be fun for kids), we instead wanted to add a small solder project in there - for hackers.
 
 ## A quick introduction
 
