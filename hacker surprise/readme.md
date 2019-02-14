@@ -19,7 +19,7 @@ This is my setup:
 
 <img width="1006" alt="screen shot 2019-02-14 at 15 14 10" src="https://user-images.githubusercontent.com/238946/52792257-388e6200-306b-11e9-92e9-c0eb930faad8.png">
 
-## Pooring
+## Pouring
 
 Once you got your bowl with milk chocolate ready, you need to fill the mold. Fill it up and then right after poor it out. Make sure to shake it (and keep the left overs for another batch). However, make sure to check how thick the walls when you're shaking, because the more you shake, the thinner the walls will get. You can get it very thin!
 
