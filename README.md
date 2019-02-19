@@ -46,5 +46,16 @@ Are you as obsessed over food as I am? Eating it, the history behind it, prepari
         Fresno pepper hot sauce
       </td>
     </tr>
+    <tr>
+      <td align="center">
+      <a href="https://github.com/davidvanleeuwen/food/blob/master/hot%20sauce/readme.md">
+        <img width="250"
+        src="https://user-images.githubusercontent.com/238946/53005884-6e00ca00-3434-11e9-847d-547964f098b4.png">
+        <br>
+        Icecream</a>
+        <br>
+        Made with a fire extinguisher
+      </td>
+    </tr>
   <tbody>
 </table>
