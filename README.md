@@ -48,7 +48,7 @@ Are you as obsessed over food as I am? Eating it, the history behind it, prepari
     </tr>
     <tr>
       <td align="center">
-      <a href="https://github.com/davidvanleeuwen/food/blob/master/hot%20sauce/readme.md">
+      <a href="https://github.com/davidvanleeuwen/food/tree/master/icecream">
         <img width="250"
         src="https://user-images.githubusercontent.com/238946/53005884-6e00ca00-3434-11e9-847d-547964f098b4.png">
         <br>
